@@ -18,13 +18,13 @@ Whether an asset is going **in** or **out**, this system ensures transparency, a
 
 ##  Screenshots Only (For Privacy)
 
-⚠️ **Important Notice:**  
+ **Important Notice:**  
 To protect **company privacy, internal data, and sensitive information**, this repository will only contain **screenshots** of the system’s UI and workflow.  
 No real data, internal documents, or company-specific configurations will be uploaded.
 
 ---
 
-## 🖼️ System Screenshots
+##  System Screenshots
 
 ### 📌 Screenshot 1
 <img src="1.png" width="800">
