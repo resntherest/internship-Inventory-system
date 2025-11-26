@@ -1,5 +1,4 @@
-# internship-Inventory-system
-
+# Internship
 #  IT Department Inventory Monitoring System
 
 
