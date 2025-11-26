@@ -47,3 +47,14 @@ No real data, internal documents, or company-specific configurations will be upl
 <img src="7.png" width="800">
 
 ---
+##  Special Features
+
+- **Excel Import & Export**  
+  Quickly import bulk data or export inventory logs directly to Excel for reporting or documentation.
+
+- **Barcode Scanning Support**  
+  Scan item barcodes for **automatic logging**, making the process faster and more accurate.
+
+- **Customizable Interface**  
+  The application includes customization options, allowing adjustments to match internal workflows or UI preferences.
+
